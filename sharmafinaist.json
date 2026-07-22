@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "german": "die",
+    "meaning": "the",
+    "pronunciation": "dee",
+    "audio": "word_may2026_1"
+  },
+  {
+    "id": 2,
+    "german": "und",
+    "meaning": "and",
+    "pronunciation": "oont",
+    "audio": "word_may2026_2"
+  },
+  {
+    "id": 3,
+    "german": "der",
+    "meaning": "the",
+    "pronunciation": "dair",
+    "audio": "word_may2026_3"
+  },
+  {
+    "id": 4,
+    "german": "in",
+    "meaning": "in",
+    "pronunciation": "in",
+    "audio": "word_may2026_4"
+  },
+  {
+    "id": 5,
+    "german": "das",
+    "meaning": "the",
+    "pronunciation": "das",
+    "audio": "word_may2026_5"
+  },
+  {
+    "id": 6,
+    "german": "den",
+    "meaning": "the",
+    "pronunciation": "dane",
+    "audio": "word_may2026_6"
+  },
+  {
+    "id": 7,
+    "german": "zu",
+    "meaning": "to",
+    "pronunciation": "tsoo",
+    "audio": "word_may2026_7"
+  },
+  {
+    "id": 8,
+    "german": "mit",
+    "meaning": "with",
+    "pronunciation": "mit",
+    "audio": "word_may2026_8"
+  },
+  {
+    "id": 9,
+    "german": "ist",
+    "meaning": "is",
+    "pronunciation": "ist",
+    "audio": "word_may2026_9"
+  },
+  {
+    "id": 10,
+    "german": "von",
+    "meaning": "of / from",
+    "pronunciation": "fon",
+    "audio": "word_may2026_10"
+  },
+  {
+    "id": 11,
+    "german": "für",
+    "meaning": "for",
+    "pronunciation": "fewr",
+    "audio": "word_may2026_11"
+  },
+  {
+    "id": 12,
+    "german": "auf",
+    "meaning": "on",
+    "pronunciation": "owf",
+    "audio": "word_may2026_12"
+  },
+  {
+    "id": 13,
+    "german": "nicht",
+    "meaning": "not",
+    "pronunciation": "nikht",
+    "audio": "word_may2026_13"
+  },
+  {
+    "id": 14,
+    "german": "es",
+    "meaning": "it",
+    "pronunciation": "es",
+    "audio": "word_may2026_14"
+  },
+  {
+    "id": 15,
+    "german": "ein",
+    "meaning": "a / an",
+    "pronunciation": "yn",
+    "audio": "word_may2026_15"
+  },
+  {
+    "id": 16,
+    "german": "im",
+    "meaning": "in the",
+    "pronunciation": "im",
+    "audio": "word_may2026_16"
+  },
+  {
+    "id": 17,
+    "german": "auch",
+    "meaning": "also / too",
+    "pronunciation": "owkh",
+    "audio": "word_may2026_17"
+  },
+  {
+    "id": 18,
+    "german": "sich",
+    "meaning": "oneself",
+    "pronunciation": "zikh",
+    "audio": "word_may2026_18"
+  },
+  {
+    "id": 19,
+    "german": "ich",
+    "meaning": "I",
+    "pronunciation": "ish",
+    "audio": "word_may2026_19"
+  },
+  {
+    "id": 20,
+    "german": "sie",
+    "meaning": "she / they",
+    "pronunciation": "zee",
+    "audio": "word_may2026_20"
+  },
+  {
+    "id": 21,
+    "german": "eine",
+    "meaning": "a / an",
+    "pronunciation": "yn-eh",
+    "audio": "word_may2026_21"
+  },
+  {
+    "id": 22,
+    "german": "dem",
+    "meaning": "the",
+    "pronunciation": "dame",
+    "audio": "word_may2026_22"
+  },
+  {
+    "id": 23,
+    "german": "des",
+    "meaning": "of the",
+    "pronunciation": "des",
+    "audio": "word_may2026_23"
+  },
+  {
+    "id": 24,
+    "german": "an",
+    "meaning": "at / on",
+    "pronunciation": "an",
+    "audio": "word_may2026_24"
+  },
+  {
+    "id": 25,
+    "german": "als",
+    "meaning": "as / than",
+    "pronunciation": "als",
+    "audio": "word_may2026_25"
+  },
+  {
+    "id": 26,
+    "german": "werden",
+    "meaning": "to become",
+    "pronunciation": "vair-den",
+    "audio": "word_may2026_26"
+  },
+  {
+    "id": 27,
+    "german": "bei",
+    "meaning": "at / by",
+    "pronunciation": "by",
+    "audio": "word_may2026_27"
+  },
+  {
+    "id": 28,
+    "german": "sind",
+    "meaning": "are",
+    "pronunciation": "zint",
+    "audio": "word_may2026_28"
+  },
+  {
+    "id": 29,
+    "german": "dass",
+    "meaning": "that",
+    "pronunciation": "das",
+    "audio": "word_may2026_29"
+  },
+  {
+    "id": 30,
+    "german": "so",
+    "meaning": "so",
+    "pronunciation": "zo",
+    "audio": "word_may2026_30"
+  },
+  {
+    "id": 31,
+    "german": "oder",
+    "meaning": "or",
+    "pronunciation": "oh-dair",
+    "audio": "word_may2026_31"
+  },
+  {
+    "id": 32,
+    "german": "wie",
+    "meaning": "how / as",
+    "pronunciation": "vee",
+    "audio": "word_may2026_32"
+  },
+  {
+    "id": 33,
+    "german": "aus",
+    "meaning": "out / from",
+    "pronunciation": "ows",
+    "audio": "word_may2026_33"
+  },
+  {
+    "id": 34,
+    "german": "wir",
+    "meaning": "we",
+    "pronunciation": "veer",
+    "audio": "word_may2026_34"
+  },
+  {
+    "id": 35,
+    "german": "aber",
+    "meaning": "but",
+    "pronunciation": "ah-bair",
+    "audio": "word_may2026_35"
+  },
+  {
+    "id": 36,
+    "german": "wird",
+    "meaning": "becomes / will",
+    "pronunciation": "veert",
+    "audio": "word_may2026_36"
+  },
+  {
+    "id": 37,
+    "german": "nach",
+    "meaning": "after / to",
+    "pronunciation": "nakh",
+    "audio": "word_may2026_37"
+  },
+  {
+    "id": 38,
+    "german": "man",
+    "meaning": "one / you",
+    "pronunciation": "man",
+    "audio": "word_may2026_38"
+  },
+  {
+    "id": 39,
+    "german": "er",
+    "meaning": "he",
+    "pronunciation": "air",
+    "audio": "word_may2026_39"
+  },
+  {
+    "id": 40,
+    "german": "hat",
+    "meaning": "has",
+    "pronunciation": "hat",
+    "audio": "word_may2026_40"
+  },
+  {
+    "id": 41,
+    "german": "noch",
+    "meaning": "still / yet",
+    "pronunciation": "nokh",
+    "audio": "word_may2026_41"
+  },
+  {
+    "id": 42,
+    "german": "einen",
+    "meaning": "a / an",
+    "pronunciation": "yn-en",
+    "audio": "word_may2026_42"
+  },
+  {
+    "id": 43,
+    "german": "nur",
+    "meaning": "only",
+    "pronunciation": "noor",
+    "audio": "word_may2026_43"
+  },
+  {
+    "id": 44,
+    "german": "um",
+    "meaning": "around / at",
+    "pronunciation": "oom",
+    "audio": "word_may2026_44"
+  },
+  {
+    "id": 45,
+    "german": "am",
+    "meaning": "at the",
+    "pronunciation": "am",
+    "audio": "word_may2026_45"
+  },
+  {
+    "id": 46,
+    "german": "einer",
+    "meaning": "a / an",
+    "pronunciation": "yn-er",
+    "audio": "word_may2026_46"
+  },
+  {
+    "id": 47,
+    "german": "zum",
+    "meaning": "to the",
+    "pronunciation": "tsoom",
+    "audio": "word_may2026_47"
+  },
+  {
+    "id": 48,
+    "german": "kann",
+    "meaning": "can / be able to",
+    "pronunciation": "kan",
+    "audio": "word_may2026_48"
+  },
+  {
+    "id": 49,
+    "german": "einem",
+    "meaning": "a / an",
+    "pronunciation": "yn-em",
+    "audio": "word_may2026_49"
+  },
+  {
+    "id": 50,
+    "german": "über",
+    "meaning": "over / about",
+    "pronunciation": "ew-ber",
+    "audio": "word_may2026_50"
+  },
+  {
+    "id": 51,
+    "german": "war",
+    "meaning": "was",
+    "pronunciation": "vahr",
+    "audio": "word_may2026_51"
+  },
+  {
+    "id": 52,
+    "german": "wenn",
+    "meaning": "if / when",
+    "pronunciation": "ven",
+    "audio": "word_may2026_52"
+  },
+  {
+    "id": 53,
+    "german": "haben",
+    "meaning": "to have",
+    "pronunciation": "hah-ben",
+    "audio": "word_may2026_53"
+  },
+  {
+    "id": 54,
+    "german": "durch",
+    "meaning": "through",
+    "pronunciation": "doorkh",
+    "audio": "word_may2026_54"
+  },
+  {
+    "id": 55,
+    "german": "dann",
+    "meaning": "then",
+    "pronunciation": "dan",
+    "audio": "word_may2026_55"
+  },
+  {
+    "id": 56,
+    "german": "vor",
+    "meaning": "before / in front of",
+    "pronunciation": "for",
+    "audio": "word_may2026_56"
+  },
+  {
+    "id": 57,
+    "german": "zur",
+    "meaning": "to the",
+    "pronunciation": "tsoor",
+    "audio": "word_may2026_57"
+  },
+  {
+    "id": 58,
+    "german": "mehr",
+    "meaning": "more",
+    "pronunciation": "mair",
+    "audio": "word_may2026_58"
+  },
+  {
+    "id": 59,
+    "german": "was",
+    "meaning": "what",
+    "pronunciation": "vas",
+    "audio": "word_may2026_59"
+  },
+  {
+    "id": 60,
+    "german": "diese",
+    "meaning": "this / these",
+    "pronunciation": "dee-zeh",
+    "audio": "word_may2026_60"
+  },
+  {
+    "id": 61,
+    "german": "da",
+    "meaning": "there / because",
+    "pronunciation": "dah",
+    "audio": "word_may2026_61"
+  },
+  {
+    "id": 62,
+    "german": "können",
+    "meaning": "can / to be able to",
+    "pronunciation": "kern-en",
+    "audio": "word_may2026_62"
+  },
+  {
+    "id": 63,
+    "german": "schon",
+    "meaning": "already",
+    "pronunciation": "shohn",
+    "audio": "word_may2026_63"
+  },
+  {
+    "id": 64,
+    "german": "sein",
+    "meaning": "his / to be",
+    "pronunciation": "zyn",
+    "audio": "word_may2026_64"
+  },
+  {
+    "id": 65,
+    "german": "bis",
+    "meaning": "until",
+    "pronunciation": "bis",
+    "audio": "word_may2026_65"
+  },
+  {
+    "id": 66,
+    "german": "wurde",
+    "meaning": "became / was",
+    "pronunciation": "voor-deh",
+    "audio": "word_may2026_66"
+  },
+  {
+    "id": 67,
+    "german": "hier",
+    "meaning": "here",
+    "pronunciation": "heer",
+    "audio": "word_may2026_67"
+  },
+  {
+    "id": 68,
+    "german": "sehr",
+    "meaning": "very",
+    "pronunciation": "zair",
+    "audio": "word_may2026_68"
+  },
+  {
+    "id": 69,
+    "german": "wieder",
+    "meaning": "again",
+    "pronunciation": "vee-dair",
+    "audio": "word_may2026_69"
+  },
+  {
+    "id": 70,
+    "german": "immer",
+    "meaning": "always",
+    "pronunciation": "im-er",
+    "audio": "word_may2026_70"
+  },
+  {
+    "id": 71,
+    "german": "uns",
+    "meaning": "us / ourselves",
+    "pronunciation": "oons",
+    "audio": "word_may2026_71"
+  },
+  {
+    "id": 72,
+    "german": "ihr",
+    "meaning": "her / their / you",
+    "pronunciation": "eer",
+    "audio": "word_may2026_72"
+  },
+  {
+    "id": 73,
+    "german": "mir",
+    "meaning": "me / to me",
+    "pronunciation": "meer",
+    "audio": "word_may2026_73"
+  },
+  {
+    "id": 74,
+    "german": "mal",
+    "meaning": "time / once",
+    "pronunciation": "mahl",
+    "audio": "word_may2026_74"
+  },
+  {
+    "id": 75,
+    "german": "ihre",
+    "meaning": "their / her",
+    "pronunciation": "ee-reh",
+    "audio": "word_may2026_75"
+  },
+  {
+    "id": 76,
+    "german": "alle",
+    "meaning": "all / everyone",
+    "pronunciation": "al-eh",
+    "audio": "word_may2026_76"
+  },
+  {
+    "id": 77,
+    "german": "dieser",
+    "meaning": "this",
+    "pronunciation": "dee-zair",
+    "audio": "word_may2026_77"
+  },
+  {
+    "id": 78,
+    "german": "doch",
+    "meaning": "but / yet / indeed",
+    "pronunciation": "dokh",
+    "audio": "word_may2026_78"
+  },
+  {
+    "id": 79,
+    "german": "habe",
+    "meaning": "have",
+    "pronunciation": "hah-beh",
+    "audio": "word_may2026_79"
+  },
+  {
+    "id": 80,
+    "german": "gibt",
+    "meaning": "gives / there is",
+    "pronunciation": "geept",
+    "audio": "word_may2026_80"
+  },
+  {
+    "id": 81,
+    "german": "vom",
+    "meaning": "from the",
+    "pronunciation": "fom",
+    "audio": "word_may2026_81"
+  },
+  {
+    "id": 82,
+    "german": "mich",
+    "meaning": "me / myself",
+    "pronunciation": "mikh",
+    "audio": "word_may2026_82"
+  },
+  {
+    "id": 83,
+    "german": "unter",
+    "meaning": "under / among",
+    "pronunciation": "oon-tair",
+    "audio": "word_may2026_83"
+  },
+  {
+    "id": 84,
+    "german": "du",
+    "meaning": "you",
+    "pronunciation": "doo",
+    "audio": "word_may2026_84"
+  },
+  {
+    "id": 85,
+    "german": "ja",
+    "meaning": "yes",
+    "pronunciation": "yah",
+    "audio": "word_may2026_85"
+  },
+  {
+    "id": 86,
+    "german": "keine",
+    "meaning": "no / none",
+    "pronunciation": "ky-neh",
+    "audio": "word_may2026_86"
+  },
+  {
+    "id": 87,
+    "german": "gut",
+    "meaning": "good",
+    "pronunciation": "goot",
+    "audio": "word_may2026_87"
+  },
+  {
+    "id": 88,
+    "german": "damit",
+    "meaning": "so that / with it",
+    "pronunciation": "dah-mit",
+    "audio": "word_may2026_88"
+  },
+  {
+    "id": 89,
+    "german": "hatte",
+    "meaning": "had",
+    "pronunciation": "hat-eh",
+    "audio": "word_may2026_89"
+  },
+  {
+    "id": 90,
+    "german": "ganz",
+    "meaning": "whole / quite",
+    "pronunciation": "gants",
+    "audio": "word_may2026_90"
+  },
+  {
+    "id": 91,
+    "german": "beim",
+    "meaning": "at the",
+    "pronunciation": "bym",
+    "audio": "word_may2026_91"
+  },
+  {
+    "id": 92,
+    "german": "eines",
+    "meaning": "of one",
+    "pronunciation": "yn-es",
+    "audio": "word_may2026_92"
+  },
+  {
+    "id": 93,
+    "german": "denn",
+    "meaning": "because / for",
+    "pronunciation": "den",
+    "audio": "word_may2026_93"
+  },
+  {
+    "id": 94,
+    "german": "muss",
+    "meaning": "must",
+    "pronunciation": "moos",
+    "audio": "word_may2026_94"
+  },
+  {
+    "id": 95,
+    "german": "nun",
+    "meaning": "now",
+    "pronunciation": "noon",
+    "audio": "word_may2026_95"
+  },
+  {
+    "id": 96,
+    "german": "Zeit",
+    "meaning": "time",
+    "pronunciation": "tsyt",
+    "audio": "word_may2026_96"
+  },
+  {
+    "id": 97,
+    "german": "seine",
+    "meaning": "his / its",
+    "pronunciation": "zy-neh",
+    "audio": "word_may2026_97"
+  },
+  {
+    "id": 98,
+    "german": "jetzt",
+    "meaning": "now",
+    "pronunciation": "yetst",
+    "audio": "word_may2026_98"
+  },
+  {
+    "id": 99,
+    "german": "etwas",
+    "meaning": "something / some",
+    "pronunciation": "et-vas",
+    "audio": "word_may2026_99"
+  },
+  {
+    "id": 100,
+    "german": "gegen",
+    "meaning": "against / towards",
+    "pronunciation": "gay-gen",
+    "audio": "word_may2026_100"
+  },
+  {
+    "id": 101,
+    "german": "dabei",
+    "meaning": "thereby / with it",
+    "pronunciation": "dah-by",
+    "audio": "word_may2026_101"
+  },
+  {
+    "id": 102,
+    "german": "also",
+    "meaning": "so / therefore",
+    "pronunciation": "al-zo",
+    "audio": "word_may2026_102"
+  },
+  {
+    "id": 103,
+    "german": "viel",
+    "meaning": "much / a lot",
+    "pronunciation": "feel",
+    "audio": "word_may2026_103"
+  },
+  {
+    "id": 104,
+    "german": "diesem",
+    "meaning": "this",
+    "pronunciation": "dee-zem",
+    "audio": "word_may2026_104"
+  },
+  {
+    "id": 105,
+    "german": "ab",
+    "meaning": "from / off",
+    "pronunciation": "ap",
+    "audio": "word_may2026_105"
+  },
+  {
+    "id": 106,
+    "german": "viele",
+    "meaning": "many",
+    "pronunciation": "fee-leh",
+    "audio": "word_may2026_106"
+  },
+  {
+    "id": 107,
+    "german": "zwei",
+    "meaning": "two",
+    "pronunciation": "tsvy",
+    "audio": "word_may2026_107"
+  },
+  {
+    "id": 108,
+    "german": "anderen",
+    "meaning": "other",
+    "pronunciation": "an-dair-en",
+    "audio": "word_may2026_108"
+  },
+  {
+    "id": 109,
+    "german": "ohne",
+    "meaning": "without",
+    "pronunciation": "oh-neh",
+    "audio": "word_may2026_109"
+  },
+  {
+    "id": 110,
+    "german": "selbst",
+    "meaning": "self / even",
+    "pronunciation": "zelpst",
+    "audio": "word_may2026_110"
+  },
+  {
+    "id": 111,
+    "german": "alles",
+    "meaning": "everything",
+    "pronunciation": "al-es",
+    "audio": "word_may2026_111"
+  },
+  {
+    "id": 112,
+    "german": "sowie",
+    "meaning": "as well as",
+    "pronunciation": "zo-vee",
+    "audio": "word_may2026_112"
+  },
+  {
+    "id": 113,
+    "german": "Menschen",
+    "meaning": "people / humans",
+    "pronunciation": "men-shen",
+    "audio": "word_may2026_113"
+  },
+  {
+    "id": 114,
+    "german": "waren",
+    "meaning": "were",
+    "pronunciation": "vah-ren",
+    "audio": "word_may2026_114"
+  },
+  {
+    "id": 115,
+    "german": "seit",
+    "meaning": "since / for",
+    "pronunciation": "zyt",
+    "audio": "word_may2026_115"
+  },
+  {
+    "id": 116,
+    "german": "einfach",
+    "meaning": "simple / just",
+    "pronunciation": "yn-fakh",
+    "audio": "word_may2026_116"
+  },
+  {
+    "id": 117,
+    "german": "geht",
+    "meaning": "goes",
+    "pronunciation": "gayt",
+    "audio": "word_may2026_117"
+  },
+  {
+    "id": 118,
+    "german": "Jahr",
+    "meaning": "year",
+    "pronunciation": "yahr",
+    "audio": "word_may2026_118"
+  },
+  {
+    "id": 119,
+    "german": "dieses",
+    "meaning": "this",
+    "pronunciation": "dee-zes",
+    "audio": "word_may2026_119"
+  },
+  {
+    "id": 120,
+    "german": "heute",
+    "meaning": "today",
+    "pronunciation": "hoy-teh",
+    "audio": "word_may2026_120"
+  },
+  {
+    "id": 121,
+    "german": "sondern",
+    "meaning": "but / rather",
+    "pronunciation": "zon-dairn",
+    "audio": "word_may2026_121"
+  },
+  {
+    "id": 122,
+    "german": "neue",
+    "meaning": "new",
+    "pronunciation": "noy-eh",
+    "audio": "word_may2026_122"
+  },
+  {
+    "id": 123,
+    "german": "wurden",
+    "meaning": "were / became",
+    "pronunciation": "voor-den",
+    "audio": "word_may2026_123"
+  },
+  {
+    "id": 124,
+    "german": "Jahren",
+    "meaning": "years",
+    "pronunciation": "yah-ren",
+    "audio": "word_may2026_124"
+  },
+  {
+    "id": 125,
+    "german": "bereits",
+    "meaning": "already",
+    "pronunciation": "beh-ryts",
+    "audio": "word_may2026_125"
+  },
+  {
+    "id": 126,
+    "german": "machen",
+    "meaning": "to make / to do",
+    "pronunciation": "makh-en",
+    "audio": "word_may2026_126"
+  },
+  {
+    "id": 127,
+    "german": "sollte",
+    "meaning": "should",
+    "pronunciation": "zol-teh",
+    "audio": "word_may2026_127"
+  },
+  {
+    "id": 128,
+    "german": "ob",
+    "meaning": "whether / if",
+    "pronunciation": "op",
+    "audio": "word_may2026_128"
+  },
+  {
+    "id": 129,
+    "german": "weil",
+    "meaning": "because",
+    "pronunciation": "vyl",
+    "audio": "word_may2026_129"
+  },
+  {
+    "id": 130,
+    "german": "soll",
+    "meaning": "should / shall",
+    "pronunciation": "zol",
+    "audio": "word_may2026_130"
+  },
+  {
+    "id": 131,
+    "german": "ihrer",
+    "meaning": "her / their / of them",
+    "pronunciation": "ee-rair",
+    "audio": "word_may2026_131"
+  },
+  {
+    "id": 132,
+    "german": "ihren",
+    "meaning": "their / her",
+    "pronunciation": "ee-ren",
+    "audio": "word_may2026_132"
+  },
+  {
+    "id": 133,
+    "german": "dazu",
+    "meaning": "in addition / to it",
+    "pronunciation": "dah-tsoo",
+    "audio": "word_may2026_133"
+  },
+  {
+    "id": 134,
+    "german": "dies",
+    "meaning": "this",
+    "pronunciation": "dees",
+    "audio": "word_may2026_134"
+  },
+  {
+    "id": 135,
+    "german": "ersten",
+    "meaning": "first",
+    "pronunciation": "air-sten",
+    "audio": "word_may2026_135"
+  },
+  {
+    "id": 136,
+    "german": "zwischen",
+    "meaning": "between",
+    "pronunciation": "tsvish-en",
+    "audio": "word_may2026_136"
+  },
+  {
+    "id": 137,
+    "german": "ihnen",
+    "meaning": "them / to them",
+    "pronunciation": "ee-nen",
+    "audio": "word_may2026_137"
+  },
+  {
+    "id": 138,
+    "german": "bin",
+    "meaning": "am",
+    "pronunciation": "bin",
+    "audio": "word_may2026_138"
+  },
+  {
+    "id": 139,
+    "german": "lassen",
+    "meaning": "to let / to leave",
+    "pronunciation": "las-en",
+    "audio": "word_may2026_139"
+  },
+  {
+    "id": 140,
+    "german": "andere",
+    "meaning": "other",
+    "pronunciation": "an-deh-reh",
+    "audio": "word_may2026_140"
+  },
+  {
+    "id": 141,
+    "german": "meine",
+    "meaning": "my",
+    "pronunciation": "my-neh",
+    "audio": "word_may2026_141"
+  },
+  {
+    "id": 142,
+    "german": "seiner",
+    "meaning": "his",
+    "pronunciation": "zy-nair",
+    "audio": "word_may2026_142"
+  },
+  {
+    "id": 143,
+    "german": "Jahre",
+    "meaning": "years",
+    "pronunciation": "yah-reh",
+    "audio": "word_may2026_143"
+  },
+  {
+    "id": 144,
+    "german": "unsere",
+    "meaning": "our",
+    "pronunciation": "oon-zeh-reh",
+    "audio": "word_may2026_144"
+  },
+  {
+    "id": 145,
+    "german": "leben",
+    "meaning": "to live / life",
+    "pronunciation": "lay-ben",
+    "audio": "word_may2026_145"
+  },
+  {
+    "id": 146,
+    "german": "wer",
+    "meaning": "who",
+    "pronunciation": "vair",
+    "audio": "word_may2026_146"
+  },
+  {
+    "id": 147,
+    "german": "neuen",
+    "meaning": "new",
+    "pronunciation": "noy-en",
+    "audio": "word_may2026_147"
+  },
+  {
+    "id": 148,
+    "german": "weiter",
+    "meaning": "further / next",
+    "pronunciation": "vy-tair",
+    "audio": "word_may2026_148"
+  },
+  {
+    "id": 149,
+    "german": "kommt",
+    "meaning": "comes",
+    "pronunciation": "komt",
+    "audio": "word_may2026_149"
+  },
+  {
+    "id": 150,
+    "german": "müssen",
+    "meaning": "must / to have to",
+    "pronunciation": "mew-sen",
+    "audio": "word_may2026_150"
+  },
+  {
+    "id": 151,
+    "german": "einmal",
+    "meaning": "once / one time",
+    "pronunciation": "yn-mahl",
+    "audio": "word_may2026_151"
+  },
+  {
+    "id": 152,
+    "german": "wo",
+    "meaning": "where",
+    "pronunciation": "vo",
+    "audio": "word_may2026_152"
+  },
+  {
+    "id": 153,
+    "german": "dort",
+    "meaning": "there",
+    "pronunciation": "dort",
+    "audio": "word_may2026_153"
+  },
+  {
+    "id": 154,
+    "german": "erst",
+    "meaning": "only / first",
+    "pronunciation": "airst",
+    "audio": "word_may2026_154"
+  },
+  {
+    "id": 155,
+    "german": "kein",
+    "meaning": "no / none",
+    "pronunciation": "kyn",
+    "audio": "word_may2026_155"
+  },
+  {
+    "id": 156,
+    "german": "natürlich",
+    "meaning": "natural / of course",
+    "pronunciation": "nah-tewr-likh",
+    "audio": "word_may2026_156"
+  },
+  {
+    "id": 157,
+    "german": "ihn",
+    "meaning": "him",
+    "pronunciation": "een",
+    "audio": "word_may2026_157"
+  },
+  {
+    "id": 158,
+    "german": "diesen",
+    "meaning": "this / these",
+    "pronunciation": "dee-zen",
+    "audio": "word_may2026_158"
+  },
+  {
+    "id": 159,
+    "german": "jedoch",
+    "meaning": "however / though",
+    "pronunciation": "yeh-dokh",
+    "audio": "word_may2026_159"
+  },
+  {
+    "id": 160,
+    "german": "konnte",
+    "meaning": "could / was able to",
+    "pronunciation": "kon-teh",
+    "audio": "word_may2026_160"
+  },
+  {
+    "id": 161,
+    "german": "ihm",
+    "meaning": "him / to him",
+    "pronunciation": "eem",
+    "audio": "word_may2026_161"
+  },
+  {
+    "id": 162,
+    "german": "würde",
+    "meaning": "would",
+    "pronunciation": "vewr-deh",
+    "audio": "word_may2026_162"
+  },
+  {
+    "id": 163,
+    "german": "finden",
+    "meaning": "to find",
+    "pronunciation": "fin-den",
+    "audio": "word_may2026_163"
+  },
+  {
+    "id": 164,
+    "german": "drei",
+    "meaning": "three",
+    "pronunciation": "dry",
+    "audio": "word_may2026_164"
+  },
+  {
+    "id": 165,
+    "german": "seinen",
+    "meaning": "his",
+    "pronunciation": "zy-nen",
+    "audio": "word_may2026_165"
+  },
+  {
+    "id": 166,
+    "german": "will",
+    "meaning": "wants",
+    "pronunciation": "vil",
+    "audio": "word_may2026_166"
+  },
+  {
+    "id": 167,
+    "german": "nichts",
+    "meaning": "nothing",
+    "pronunciation": "nikhts",
+    "audio": "word_may2026_167"
+  },
+  {
+    "id": 168,
+    "german": "uhr",
+    "meaning": "o'clock / clock",
+    "pronunciation": "oor",
+    "audio": "word_may2026_168"
+  },
+  {
+    "id": 169,
+    "german": "macht",
+    "meaning": "makes / does",
+    "pronunciation": "makht",
+    "audio": "word_may2026_169"
+  },
+  {
+    "id": 170,
+    "german": "allem",
+    "meaning": "all",
+    "pronunciation": "al-em",
+    "audio": "word_may2026_170"
+  },
+  {
+    "id": 171,
+    "german": "sei",
+    "meaning": "be / should be / is",
+    "pronunciation": "zy",
+    "audio": "word_may2026_171"
+  },
+  {
+    "id": 172,
+    "german": "Euro",
+    "meaning": "Euro",
+    "pronunciation": "oy-ro",
+    "audio": "word_may2026_172"
+  },
+  {
+    "id": 173,
+    "german": "wirklich",
+    "meaning": "really / real",
+    "pronunciation": "veerk-likh",
+    "audio": "word_may2026_173"
+  },
+  {
+    "id": 174,
+    "german": "ins",
+    "meaning": "into the",
+    "pronunciation": "ins",
+    "audio": "word_may2026_174"
+  },
+  {
+    "id": 175,
+    "german": "steht",
+    "meaning": "stands",
+    "pronunciation": "shtayt",
+    "audio": "word_may2026_175"
+  },
+  {
+    "id": 176,
+    "german": "kommen",
+    "meaning": "to come",
+    "pronunciation": "kom-en",
+    "audio": "word_may2026_176"
+  },
+  {
+    "id": 177,
+    "german": "daß",
+    "meaning": "that",
+    "pronunciation": "das",
+    "audio": "word_may2026_177"
+  },
+  {
+    "id": 178,
+    "german": "gerade",
+    "meaning": "just / right now",
+    "pronunciation": "geh-rah-deh",
+    "audio": "word_may2026_178"
+  },
+  {
+    "id": 179,
+    "german": "Deutschland",
+    "meaning": "Germany",
+    "pronunciation": "doytsh-lant",
+    "audio": "word_may2026_179"
+  },
+  {
+    "id": 180,
+    "german": "während",
+    "meaning": "during / while",
+    "pronunciation": "vair-ent",
+    "audio": "word_may2026_180"
+  },
+  {
+    "id": 181,
+    "german": "Tag",
+    "meaning": "day",
+    "pronunciation": "tahk",
+    "audio": "word_may2026_181"
+  },
+  {
+    "id": 182,
+    "german": "allerdings",
+    "meaning": "however / indeed",
+    "pronunciation": "al-air-dings",
+    "audio": "word_may2026_182"
+  },
+  {
+    "id": 183,
+    "german": "Kinder",
+    "meaning": "children",
+    "pronunciation": "kin-dair",
+    "audio": "word_may2026_183"
+  },
+  {
+    "id": 184,
+    "german": "dafür",
+    "meaning": "for it / instead",
+    "pronunciation": "dah-fewr",
+    "audio": "word_may2026_184"
+  },
+  {
+    "id": 185,
+    "german": "wäre",
+    "meaning": "would be",
+    "pronunciation": "vair-eh",
+    "audio": "word_may2026_185"
+  },
+  {
+    "id": 186,
+    "german": "welche",
+    "meaning": "which / some",
+    "pronunciation": "vel-kheh",
+    "audio": "word_may2026_186"
+  },
+  {
+    "id": 187,
+    "german": "Ende",
+    "meaning": "end",
+    "pronunciation": "en-deh",
+    "audio": "word_may2026_187"
+  },
+  {
+    "id": 188,
+    "german": "wohl",
+    "meaning": "well / probably",
+    "pronunciation": "vohl",
+    "audio": "word_may2026_188"
+  },
+  {
+    "id": 189,
+    "german": "mein",
+    "meaning": "my",
+    "pronunciation": "myn",
+    "audio": "word_may2026_189"
+  },
+  {
+    "id": 190,
+    "german": "einige",
+    "meaning": "some / a few",
+    "pronunciation": "yn-ee-geh",
+    "audio": "word_may2026_190"
+  },
+  {
+    "id": 191,
+    "german": "Weg",
+    "meaning": "way / path",
+    "pronunciation": "vayk",
+    "audio": "word_may2026_191"
+  },
+  {
+    "id": 192,
+    "german": "jeder",
+    "meaning": "everyone / each",
+    "pronunciation": "yay-dair",
+    "audio": "word_may2026_192"
+  },
+  {
+    "id": 193,
+    "german": "letzten",
+    "meaning": "last",
+    "pronunciation": "letst-en",
+    "audio": "word_may2026_193"
+  },
+  {
+    "id": 194,
+    "german": "sehen",
+    "meaning": "to see",
+    "pronunciation": "zay-en",
+    "audio": "word_may2026_194"
+  },
+  {
+    "id": 195,
+    "german": "allen",
+    "meaning": "all",
+    "pronunciation": "al-en",
+    "audio": "word_may2026_195"
+  },
+  {
+    "id": 196,
+    "german": "weitere",
+    "meaning": "further / additional",
+    "pronunciation": "vy-teh-reh",
+    "audio": "word_may2026_196"
+  },
+  {
+    "id": 197,
+    "german": "besonders",
+    "meaning": "especially",
+    "pronunciation": "beh-zon-dairst",
+    "audio": "word_may2026_197"
+  },
+  {
+    "id": 198,
+    "german": "zwar",
+    "meaning": "indeed / to be sure",
+    "pronunciation": "tsvahr",
+    "audio": "word_may2026_198"
+  },
+  {
+    "id": 199,
+    "german": "neben",
+    "meaning": "next to / beside",
+    "pronunciation": "nay-ben",
+    "audio": "word_may2026_199"
+  },
+  {
+    "id": 200,
+    "german": "vielen",
+    "meaning": "many",
+    "pronunciation": "fee-len",
+    "audio": "word_may2026_200"
+  },
+  {
+    "id": 201,
+    "german": "vielleicht",
+    "meaning": "perhaps / maybe",
+    "pronunciation": "fee-lykht",
+    "audio": "word_may2026_201"
+  },
+  {
+    "id": 202,
+    "german": "beiden",
+    "meaning": "both",
+    "pronunciation": "by-den",
+    "audio": "word_may2026_202"
+  },
+  {
+    "id": 203,
+    "german": "Welt",
+    "meaning": "world",
+    "pronunciation": "velt",
+    "audio": "word_may2026_203"
+  },
+  {
+    "id": 204,
+    "german": "ihrem",
+    "meaning": "her / their / your",
+    "pronunciation": "ee-rem",
+    "audio": "word_may2026_204"
+  },
+  {
+    "id": 205,
+    "german": "unternehmen",
+    "meaning": "to undertake / business",
+    "pronunciation": "oon-tair-nay-men",
+    "audio": "word_may2026_205"
+  },
+  {
+    "id": 206,
+    "german": "wollen",
+    "meaning": "to want",
+    "pronunciation": "vol-en",
+    "audio": "word_may2026_206"
+  },
+  {
+    "id": 207,
+    "german": "liegt",
+    "meaning": "lies / is located",
+    "pronunciation": "leekt",
+    "audio": "word_may2026_207"
+  },
+  {
+    "id": 208,
+    "german": "Teil",
+    "meaning": "part",
+    "pronunciation": "tyl",
+    "audio": "word_may2026_208"
+  },
+  {
+    "id": 209,
+    "german": "seinem",
+    "meaning": "his / its",
+    "pronunciation": "zy-nem",
+    "audio": "word_may2026_209"
+  },
+  {
+    "id": 210,
+    "german": "stehen",
+    "meaning": "to stand",
+    "pronunciation": "shtay-en",
+    "audio": "word_may2026_210"
+  },
+  {
+    "id": 211,
+    "german": "bzw.",
+    "meaning": "respectively",
+    "pronunciation": "beh-tsee-oongs-vy-zeh",
+    "audio": "word_may2026_211"
+  },
+  {
+    "id": 212,
+    "german": "fast",
+    "meaning": "almost",
+    "pronunciation": "fast",
+    "audio": "word_may2026_212"
+  },
+  {
+    "id": 213,
+    "german": "Stadt",
+    "meaning": "city / town",
+    "pronunciation": "shtat",
+    "audio": "word_may2026_213"
+  },
+  {
+    "id": 214,
+    "german": "erste",
+    "meaning": "first",
+    "pronunciation": "air-steh",
+    "audio": "word_may2026_214"
+  },
+  {
+    "id": 215,
+    "german": "euch",
+    "meaning": "you (plural)",
+    "pronunciation": "oykh",
+    "audio": "word_may2026_215"
+  },
+  {
+    "id": 216,
+    "german": "gar",
+    "meaning": "at all / quite",
+    "pronunciation": "gahr",
+    "audio": "word_may2026_216"
+  },
+  {
+    "id": 217,
+    "german": "sogar",
+    "meaning": "even",
+    "pronunciation": "zo-gahr",
+    "audio": "word_may2026_217"
+  },
+  {
+    "id": 218,
+    "german": "geben",
+    "meaning": "to give",
+    "pronunciation": "gay-ben",
+    "audio": "word_may2026_218"
+  },
+  {
+    "id": 219,
+    "german": "deutschen",
+    "meaning": "German",
+    "pronunciation": "doyt-shen",
+    "audio": "word_may2026_219"
+  },
+  {
+    "id": 220,
+    "german": "möglich",
+    "meaning": "possible",
+    "pronunciation": "mairg-likh",
+    "audio": "word_may2026_220"
+  },
+  {
+    "id": 221,
+    "german": "etwa",
+    "meaning": "about / approximately",
+    "pronunciation": "et-vah",
+    "audio": "word_may2026_221"
+  },
+  {
+    "id": 222,
+    "german": "schnell",
+    "meaning": "fast / quick",
+    "pronunciation": "shnel",
+    "audio": "word_may2026_222"
+  },
+  {
+    "id": 223,
+    "german": "Seite",
+    "meaning": "page / side",
+    "pronunciation": "zy-teh",
+    "audio": "word_may2026_223"
+  },
+  {
+    "id": 224,
+    "german": "großen",
+    "meaning": "large / big",
+    "pronunciation": "grohs-en",
+    "audio": "word_may2026_224"
+  },
+  {
+    "id": 225,
+    "german": "Frage",
+    "meaning": "question",
+    "pronunciation": "frah-geh",
+    "audio": "word_may2026_225"
+  },
+  {
+    "id": 226,
+    "german": "denen",
+    "meaning": "whom / those",
+    "pronunciation": "day-nen",
+    "audio": "word_may2026_226"
+  },
+  {
+    "id": 227,
+    "german": "eigentlich",
+    "meaning": "actually / really",
+    "pronunciation": "yg-ent-likh",
+    "audio": "word_may2026_227"
+  },
+  {
+    "id": 228,
+    "german": "unserer",
+    "meaning": "our",
+    "pronunciation": "oon-zeh-rair",
+    "audio": "word_may2026_228"
+  },
+  {
+    "id": 229,
+    "german": "gehen",
+    "meaning": "to go",
+    "pronunciation": "gay-en",
+    "audio": "word_may2026_229"
+  },
+  {
+    "id": 230,
+    "german": "gute",
+    "meaning": "good",
+    "pronunciation": "goo-teh",
+    "audio": "word_may2026_230"
+  },
+  {
+    "id": 231,
+    "german": "Arbeit",
+    "meaning": "work / job",
+    "pronunciation": "ahr-byt",
+    "audio": "word_may2026_231"
+  },
+  {
+    "id": 232,
+    "german": "recht",
+    "meaning": "right / quite",
+    "pronunciation": "rekht",
+    "audio": "word_may2026_232"
+  },
+  {
+    "id": 233,
+    "german": "oft",
+    "meaning": "often",
+    "pronunciation": "oft",
+    "audio": "word_may2026_233"
+  },
+  {
+    "id": 234,
+    "german": "genau",
+    "meaning": "exact / precise",
+    "pronunciation": "geh-now",
+    "audio": "word_may2026_234"
+  },
+  {
+    "id": 235,
+    "german": "lange",
+    "meaning": "long / long time",
+    "pronunciation": "lang-eh",
+    "audio": "word_may2026_235"
+  },
+  {
+    "id": 236,
+    "german": "wenig",
+    "meaning": "little / few",
+    "pronunciation": "vay-nikh",
+    "audio": "word_may2026_236"
+  },
+  {
+    "id": 237,
+    "german": "leider",
+    "meaning": "unfortunately",
+    "pronunciation": "ly-dair",
+    "audio": "word_may2026_237"
+  },
+  {
+    "id": 238,
+    "german": "hatten",
+    "meaning": "had (plural)",
+    "pronunciation": "hat-en",
+    "audio": "word_may2026_238"
+  },
+  {
+    "id": 239,
+    "german": "davon",
+    "meaning": "of it / from it",
+    "pronunciation": "dah-fon",
+    "audio": "word_may2026_239"
+  },
+  {
+    "id": 240,
+    "german": "Thema",
+    "meaning": "topic / theme",
+    "pronunciation": "tay-mah",
+    "audio": "word_may2026_240"
+  },
+  {
+    "id": 241,
+    "german": "gemacht",
+    "meaning": "made / done",
+    "pronunciation": "geh-makht",
+    "audio": "word_may2026_241"
+  },
+  {
+    "id": 242,
+    "german": "Fall",
+    "meaning": "case / fall",
+    "pronunciation": "fal",
+    "audio": "word_may2026_242"
+  },
+  {
+    "id": 243,
+    "german": "eigenen",
+    "meaning": "own",
+    "pronunciation": "yg-en-en",
+    "audio": "word_may2026_243"
+  },
+  {
+    "id": 244,
+    "german": "dir",
+    "meaning": "you (dative)",
+    "pronunciation": "deer",
+    "audio": "word_may2026_244"
+  },
+  {
+    "id": 245,
+    "german": "könnte",
+    "meaning": "could / might",
+    "pronunciation": "kern-teh",
+    "audio": "word_may2026_245"
+  },
+  {
+    "id": 246,
+    "german": "unser",
+    "meaning": "our",
+    "pronunciation": "oon-zair",
+    "audio": "word_may2026_246"
+  },
+  {
+    "id": 247,
+    "german": "große",
+    "meaning": "large / big",
+    "pronunciation": "grohs-eh",
+    "audio": "word_may2026_247"
+  },
+  {
+    "id": 248,
+    "german": "zusammen",
+    "meaning": "together",
+    "pronunciation": "tsoo-zam-en",
+    "audio": "word_may2026_248"
+  },
+  {
+    "id": 249,
+    "german": "bietet",
+    "meaning": "offers / provides",
+    "pronunciation": "bee-tet",
+    "audio": "word_may2026_249"
+  },
+  {
+    "id": 250,
+    "german": "besser",
+    "meaning": "better",
+    "pronunciation": "bes-er",
+    "audio": "word_may2026_250"
+  },
+  {
+    "id": 251,
+    "german": "Frau",
+    "meaning": "woman / wife / Mrs.",
+    "pronunciation": "frow",
+    "audio": "word_may2026_251"
+  },
+  {
+    "id": 252,
+    "german": "möchte",
+    "meaning": "would like",
+    "pronunciation": "merkh-teh",
+    "audio": "word_may2026_252"
+  },
+  {
+    "id": 253,
+    "german": "darauf",
+    "meaning": "on it / thereupon",
+    "pronunciation": "dah-rowf",
+    "audio": "word_may2026_253"
+  },
+  {
+    "id": 254,
+    "german": "gab",
+    "meaning": "gave",
+    "pronunciation": "gahp",
+    "audio": "word_may2026_254"
+  },
+  {
+    "id": 255,
+    "german": "Spiel",
+    "meaning": "game / play",
+    "pronunciation": "shpeel",
+    "audio": "word_may2026_255"
+  },
+  {
+    "id": 256,
+    "german": "rund",
+    "meaning": "round / approximately",
+    "pronunciation": "roont",
+    "audio": "word_may2026_256"
+  },
+  {
+    "id": 257,
+    "german": "Art",
+    "meaning": "kind / type / way",
+    "pronunciation": "ahrt",
+    "audio": "word_may2026_257"
+  },
+  {
+    "id": 258,
+    "german": "gleich",
+    "meaning": "same / equal / right away",
+    "pronunciation": "glykh",
+    "audio": "word_may2026_258"
+  },
+  {
+    "id": 259,
+    "german": "hätte",
+    "meaning": "would have",
+    "pronunciation": "het-eh",
+    "audio": "word_may2026_259"
+  },
+  {
+    "id": 260,
+    "german": "Platz",
+    "meaning": "place / space / square",
+    "pronunciation": "plats",
+    "audio": "word_may2026_260"
+  },
+  {
+    "id": 261,
+    "german": "Prozent",
+    "meaning": "percent",
+    "pronunciation": "pro-tsent",
+    "audio": "word_may2026_261"
+  },
+  {
+    "id": 262,
+    "german": "Beispiel",
+    "meaning": "example",
+    "pronunciation": "by-shpeel",
+    "audio": "word_may2026_262"
+  },
+  {
+    "id": 263,
+    "german": "sicher",
+    "meaning": "sure / safe / secure",
+    "pronunciation": "zikh-er",
+    "audio": "word_may2026_263"
+  },
+  {
+    "id": 264,
+    "german": "daher",
+    "meaning": "therefore / hence",
+    "pronunciation": "dah-hair",
+    "audio": "word_may2026_264"
+  },
+  {
+    "id": 265,
+    "german": "wissen",
+    "meaning": "to know",
+    "pronunciation": "vis-en",
+    "audio": "word_may2026_265"
+  },
+  {
+    "id": 266,
+    "german": "kleinen",
+    "meaning": "small / little",
+    "pronunciation": "kly-nen",
+    "audio": "word_may2026_266"
+  },
+  {
+    "id": 267,
+    "german": "paar",
+    "meaning": "few / pair",
+    "pronunciation": "pahr",
+    "audio": "word_may2026_267"
+  },
+  {
+    "id": 268,
+    "german": "de",
+    "meaning": "of (foreign/domain)",
+    "pronunciation": "deh",
+    "audio": "word_may2026_268"
+  },
+  {
+    "id": 269,
+    "german": "meiner",
+    "meaning": "my / of mine",
+    "pronunciation": "my-nair",
+    "audio": "word_may2026_269"
+  },
+  {
+    "id": 270,
+    "german": "kam",
+    "meaning": "came",
+    "pronunciation": "kahm",
+    "audio": "word_may2026_270"
+  },
+  {
+    "id": 271,
+    "german": "findet",
+    "meaning": "finds",
+    "pronunciation": "fin-det",
+    "audio": "word_may2026_271"
+  },
+  {
+    "id": 272,
+    "german": "sagen",
+    "meaning": "to say / to tell",
+    "pronunciation": "zah-gen",
+    "audio": "word_may2026_272"
+  },
+  {
+    "id": 273,
+    "german": "gerne",
+    "meaning": "gladly / with pleasure",
+    "pronunciation": "gair-neh",
+    "audio": "word_may2026_273"
+  },
+  {
+    "id": 274,
+    "german": "deshalb",
+    "meaning": "therefore / that's why",
+    "pronunciation": "des-halp",
+    "audio": "word_may2026_274"
+  },
+  {
+    "id": 275,
+    "german": "zurück",
+    "meaning": "back / return",
+    "pronunciation": "tsoo-rewk",
+    "audio": "word_may2026_275"
+  },
+  {
+    "id": 276,
+    "german": "jeden",
+    "meaning": "every / each",
+    "pronunciation": "yay-den",
+    "audio": "word_may2026_276"
+  },
+  {
+    "id": 277,
+    "german": "sollten",
+    "meaning": "should (plural)",
+    "pronunciation": "zol-ten",
+    "audio": "word_may2026_277"
+  },
+  {
+    "id": 278,
+    "german": "statt",
+    "meaning": "instead of",
+    "pronunciation": "shtat",
+    "audio": "word_may2026_278"
+  },
+  {
+    "id": 279,
+    "german": "lässt",
+    "meaning": "lets / leaves",
+    "pronunciation": "lest",
+    "audio": "word_may2026_279"
+  },
+  {
+    "id": 280,
+    "german": "Liebe",
+    "meaning": "love",
+    "pronunciation": "lee-beh",
+    "audio": "word_may2026_280"
+  },
+  {
+    "id": 281,
+    "german": "richtig",
+    "meaning": "correct / right",
+    "pronunciation": "rikh-tikh",
+    "audio": "word_may2026_281"
+  },
+  {
+    "id": 282,
+    "german": "kleine",
+    "meaning": "small / little",
+    "pronunciation": "kly-neh",
+    "audio": "word_may2026_282"
+  },
+  {
+    "id": 283,
+    "german": "stellen",
+    "meaning": "to place / to set",
+    "pronunciation": "shtel-en",
+    "audio": "word_may2026_283"
+  },
+  {
+    "id": 284,
+    "german": "fragen",
+    "meaning": "to ask",
+    "pronunciation": "frah-gen",
+    "audio": "word_may2026_284"
+  },
+  {
+    "id": 285,
+    "german": "deren",
+    "meaning": "whose / of which",
+    "pronunciation": "day-ren",
+    "audio": "word_may2026_285"
+  },
+  {
+    "id": 286,
+    "german": "worden",
+    "meaning": "been",
+    "pronunciation": "vor-den",
+    "audio": "word_may2026_286"
+  },
+  {
+    "id": 287,
+    "german": "weiß",
+    "meaning": "knows / white",
+    "pronunciation": "vys",
+    "audio": "word_may2026_287"
+  },
+  {
+    "id": 288,
+    "german": "sollen",
+    "meaning": "should / ought to",
+    "pronunciation": "zol-en",
+    "audio": "word_may2026_288"
+  },
+  {
+    "id": 289,
+    "german": "tun",
+    "meaning": "to do",
+    "pronunciation": "toon",
+    "audio": "word_may2026_289"
+  },
+  {
+    "id": 290,
+    "german": "erhalten",
+    "meaning": "to receive / to preserve",
+    "pronunciation": "air-hal-ten",
+    "audio": "word_may2026_290"
+  },
+  {
+    "id": 291,
+    "german": "wegen",
+    "meaning": "because of",
+    "pronunciation": "vay-gen",
+    "audio": "word_may2026_291"
+  },
+  {
+    "id": 292,
+    "german": "eher",
+    "meaning": "rather / sooner",
+    "pronunciation": "ay-er",
+    "audio": "word_may2026_292"
+  },
+  {
+    "id": 293,
+    "german": "weniger",
+    "meaning": "less / fewer",
+    "pronunciation": "vay-nig-er",
+    "audio": "word_may2026_293"
+  },
+  {
+    "id": 294,
+    "german": "direkt",
+    "meaning": "direct / straight",
+    "pronunciation": "dee-rekt",
+    "audio": "word_may2026_294"
+  },
+  {
+    "id": 295,
+    "german": "ebenfalls",
+    "meaning": "likewise / also",
+    "pronunciation": "ay-ben-fahls",
+    "audio": "word_may2026_295"
+  },
+  {
+    "id": 296,
+    "german": "darüber",
+    "meaning": "about it / over it",
+    "pronunciation": "dah-rew-ber",
+    "audio": "word_may2026_296"
+  },
+  {
+    "id": 297,
+    "german": "ging",
+    "meaning": "went",
+    "pronunciation": "ging",
+    "audio": "word_may2026_297"
+  },
+  {
+    "id": 298,
+    "german": "Informationen",
+    "meaning": "information",
+    "pronunciation": "in-for-mah-tsyoh-nen",
+    "audio": "word_may2026_298"
+  },
+  {
+    "id": 299,
+    "german": "nie",
+    "meaning": "never",
+    "pronunciation": "nee",
+    "audio": "word_may2026_299"
+  },
+  {
+    "id": 300,
+    "german": "Bereich",
+    "meaning": "area / sector / range",
+    "pronunciation": "beh-rykh",
+    "audio": "word_may2026_300"
+  },
+  {
+    "id": 301,
+    "german": "später",
+    "meaning": "later",
+    "pronunciation": "shpay-tair",
+    "audio": "word_may2026_301"
+  },
+  {
+    "id": 302,
+    "german": "ganze",
+    "meaning": "whole / entire",
+    "pronunciation": "gants-eh",
+    "audio": "word_may2026_302"
+  },
+  {
+    "id": 303,
+    "german": "dich",
+    "meaning": "you (accusative)",
+    "pronunciation": "dikh",
+    "audio": "word_may2026_303"
+  },
+  {
+    "id": 304,
+    "german": "hin",
+    "meaning": "there / away",
+    "pronunciation": "hin",
+    "audio": "word_may2026_304"
+  },
+  {
+    "id": 305,
+    "german": "warum",
+    "meaning": "why",
+    "pronunciation": "vah-room",
+    "audio": "word_may2026_305"
+  },
+  {
+    "id": 306,
+    "german": "hab",
+    "meaning": "have",
+    "pronunciation": "hap",
+    "audio": "word_may2026_306"
+  },
+  {
+    "id": 307,
+    "german": "vier",
+    "meaning": "four",
+    "pronunciation": "feer",
+    "audio": "word_may2026_307"
+  },
+  {
+    "id": 308,
+    "german": "nehmen",
+    "meaning": "to take",
+    "pronunciation": "nay-men",
+    "audio": "word_may2026_308"
+  },
+  {
+    "id": 309,
+    "german": "sieht",
+    "meaning": "sees",
+    "pronunciation": "zeet",
+    "audio": "word_may2026_309"
+  },
+  {
+    "id": 310,
+    "german": "geschichte",
+    "meaning": "history / story",
+    "pronunciation": "geh-shikh-teh",
+    "audio": "word_may2026_310"
+  },
+  {
+    "id": 311,
+    "german": "je",
+    "meaning": "ever / each",
+    "pronunciation": "yay",
+    "audio": "word_may2026_311"
+  },
+  {
+    "id": 312,
+    "german": "Kunden",
+    "meaning": "customers / clients",
+    "pronunciation": "koon-den",
+    "audio": "word_may2026_312"
+  },
+  {
+    "id": 313,
+    "german": "keinen",
+    "meaning": "no / none",
+    "pronunciation": "ky-nen",
+    "audio": "word_may2026_313"
+  },
+  {
+    "id": 314,
+    "german": "werde",
+    "meaning": "will / become",
+    "pronunciation": "vair-deh",
+    "audio": "word_may2026_314"
+  },
+  {
+    "id": 315,
+    "german": "aller",
+    "meaning": "of all",
+    "pronunciation": "al-air",
+    "audio": "word_may2026_315"
+  },
+  {
+    "id": 316,
+    "german": "kurz",
+    "meaning": "short / brief",
+    "pronunciation": "koorts",
+    "audio": "word_may2026_316"
+  },
+  {
+    "id": 317,
+    "german": "Geld",
+    "meaning": "money",
+    "pronunciation": "gelt",
+    "audio": "word_may2026_317"
+  },
+  {
+    "id": 318,
+    "german": "bekommen",
+    "meaning": "to get / to receive",
+    "pronunciation": "beh-kom-en",
+    "audio": "word_may2026_318"
+  },
+  {
+    "id": 319,
+    "german": "gilt",
+    "meaning": "applies / is valid",
+    "pronunciation": "gilt",
+    "audio": "word_may2026_319"
+  },
+  {
+    "id": 320,
+    "german": "Möglichkeit",
+    "meaning": "possibility",
+    "pronunciation": "mairg-likh-kyt",
+    "audio": "word_may2026_320"
+  },
+  {
+    "id": 321,
+    "german": "nächsten",
+    "meaning": "next",
+    "pronunciation": "naykh-sten",
+    "audio": "word_may2026_321"
+  },
+  {
+    "id": 322,
+    "german": "deutlich",
+    "meaning": "clear / plain",
+    "pronunciation": "doyt-likh",
+    "audio": "word_may2026_322"
+  },
+  {
+    "id": 323,
+    "german": "außerdem",
+    "meaning": "besides / furthermore",
+    "pronunciation": "ow-sair-dem",
+    "audio": "word_may2026_323"
+  },
+  {
+    "id": 324,
+    "german": "Frauen",
+    "meaning": "women",
+    "pronunciation": "frow-en",
+    "audio": "word_may2026_324"
+  },
+  {
+    "id": 325,
+    "german": "arbeiten",
+    "meaning": "to work",
+    "pronunciation": "ahr-by-ten",
+    "audio": "word_may2026_325"
+  },
+  {
+    "id": 326,
+    "german": "bleibt",
+    "meaning": "remains / stays",
+    "pronunciation": "blypt",
+    "audio": "word_may2026_326"
+  },
+  {
+    "id": 327,
+    "german": "klar",
+    "meaning": "clear",
+    "pronunciation": "klahr",
+    "audio": "word_may2026_327"
+  },
+  {
+    "id": 328,
+    "german": "kaum",
+    "meaning": "hardly / scarcely",
+    "pronunciation": "kowm",
+    "audio": "word_may2026_328"
+  },
+  {
+    "id": 329,
+    "german": "eben",
+    "meaning": "just / flat / even",
+    "pronunciation": "ay-ben",
+    "audio": "word_may2026_329"
+  },
+  {
+    "id": 330,
+    "german": "meinen",
+    "meaning": "to mean / think / my",
+    "pronunciation": "my-nen",
+    "audio": "word_may2026_330"
+  },
+  {
+    "id": 331,
+    "german": "wollte",
+    "meaning": "wanted",
+    "pronunciation": "vol-teh",
+    "audio": "word_may2026_331"
+  },
+  {
+    "id": 332,
+    "german": "Ziel",
+    "meaning": "goal / destination",
+    "pronunciation": "tseel",
+    "audio": "word_may2026_332"
+  },
+  {
+    "id": 333,
+    "german": "Berlin",
+    "meaning": "Berlin",
+    "pronunciation": "bair-leen",
+    "audio": "word_may2026_333"
+  },
+  {
+    "id": 334,
+    "german": "zeigt",
+    "meaning": "shows",
+    "pronunciation": "tsykt",
+    "audio": "word_may2026_334"
+  },
+  {
+    "id": 335,
+    "german": "Mann",
+    "meaning": "man / husband",
+    "pronunciation": "man",
+    "audio": "word_may2026_335"
+  },
+  {
+    "id": 336,
+    "german": "Buch",
+    "meaning": "book",
+    "pronunciation": "bookh",
+    "audio": "word_may2026_336"
+  },
+  {
+    "id": 337,
+    "german": "rahmen",
+    "meaning": "frame / context",
+    "pronunciation": "rah-men",
+    "audio": "word_may2026_337"
+  },
+  {
+    "id": 338,
+    "german": "konnten",
+    "meaning": "could / were able to",
+    "pronunciation": "kon-ten",
+    "audio": "word_may2026_338"
+  },
+  {
+    "id": 339,
+    "german": "besten",
+    "meaning": "best",
+    "pronunciation": "bes-ten",
+    "audio": "word_may2026_339"
+  },
+  {
+    "id": 340,
+    "german": "bitte",
+    "meaning": "please",
+    "pronunciation": "bit-eh",
+    "audio": "word_may2026_340"
+  },
+  {
+    "id": 341,
+    "german": "somit",
+    "meaning": "thus / consequently",
+    "pronunciation": "zo-mit",
+    "audio": "word_may2026_341"
+  },
+  {
+    "id": 342,
+    "german": "stand",
+    "meaning": "stood / status",
+    "pronunciation": "shtant",
+    "audio": "word_may2026_342"
+  },
+  {
+    "id": 343,
+    "german": "sagt",
+    "meaning": "says",
+    "pronunciation": "zahkt",
+    "audio": "word_may2026_343"
+  },
+  {
+    "id": 344,
+    "german": "Bild",
+    "meaning": "picture / image",
+    "pronunciation": "bilt",
+    "audio": "word_may2026_344"
+  },
+  {
+    "id": 345,
+    "german": "darf",
+    "meaning": "may / be allowed to",
+    "pronunciation": "darf",
+    "audio": "word_may2026_345"
+  },
+  {
+    "id": 346,
+    "german": "Entwicklung",
+    "meaning": "development",
+    "pronunciation": "ent-vik-loong",
+    "audio": "word_may2026_346"
+  },
+  {
+    "id": 347,
+    "german": "gehört",
+    "meaning": "belongs / heard",
+    "pronunciation": "geh-hoert",
+    "audio": "word_may2026_347"
+  },
+  {
+    "id": 348,
+    "german": "pro",
+    "meaning": "per",
+    "pronunciation": "pro",
+    "audio": "word_may2026_348"
+  },
+  {
+    "id": 349,
+    "german": "zudem",
+    "meaning": "in addition / moreover",
+    "pronunciation": "tsoo-dem",
+    "audio": "word_may2026_349"
+  },
+  {
+    "id": 350,
+    "german": "wichtig",
+    "meaning": "important",
+    "pronunciation": "vikh-tikh",
+    "audio": "word_may2026_350"
+  },
+  {
+    "id": 351,
+    "german": "Internet",
+    "meaning": "Internet",
+    "pronunciation": "in-tair-net",
+    "audio": "word_may2026_351"
+  },
+  {
+    "id": 352,
+    "german": "Wasser",
+    "meaning": "water",
+    "pronunciation": "vas-er",
+    "audio": "word_may2026_352"
+  },
+  {
+    "id": 353,
+    "german": "spielen",
+    "meaning": "to play",
+    "pronunciation": "shpee-len",
+    "audio": "word_may2026_353"
+  },
+  {
+    "id": 354,
+    "german": "bieten",
+    "meaning": "to offer",
+    "pronunciation": "bee-ten",
+    "audio": "word_may2026_354"
+  },
+  {
+    "id": 355,
+    "german": "Tage",
+    "meaning": "days",
+    "pronunciation": "tah-geh",
+    "audio": "word_may2026_355"
+  },
+  {
+    "id": 356,
+    "german": "neu",
+    "meaning": "new",
+    "pronunciation": "noy",
+    "audio": "word_may2026_356"
+  },
+  {
+    "id": 357,
+    "german": "Woche",
+    "meaning": "week",
+    "pronunciation": "vokh-eh",
+    "audio": "word_may2026_357"
+  },
+  {
+    "id": 358,
+    "german": "Minuten",
+    "meaning": "minutes",
+    "pronunciation": "mee-noo-ten",
+    "audio": "word_may2026_358"
+  },
+  {
+    "id": 359,
+    "german": "unseren",
+    "meaning": "our",
+    "pronunciation": "oon-zeh-ren",
+    "audio": "word_may2026_359"
+  },
+  {
+    "id": 360,
+    "german": "stellt",
+    "meaning": "places / sets",
+    "pronunciation": "shtelt",
+    "audio": "word_may2026_360"
+  },
+  {
+    "id": 361,
+    "german": "Verfügung",
+    "meaning": "disposal / availability",
+    "pronunciation": "fair-few-goong",
+    "audio": "word_may2026_361"
+  },
+  {
+    "id": 362,
+    "german": "bisher",
+    "meaning": "until now / so far",
+    "pronunciation": "bis-hair",
+    "audio": "word_may2026_362"
+  },
+  {
+    "id": 363,
+    "german": "deutsche",
+    "meaning": "German",
+    "pronunciation": "doyt-sheh",
+    "audio": "word_may2026_363"
+  },
+  {
+    "id": 364,
+    "german": "verschiedenen",
+    "meaning": "various / different",
+    "pronunciation": "fair-shee-den-en",
+    "audio": "word_may2026_364"
+  },
+  {
+    "id": 365,
+    "german": "Land",
+    "meaning": "country / land",
+    "pronunciation": "lant",
+    "audio": "word_may2026_365"
+  },
+  {
+    "id": 366,
+    "german": "guten",
+    "meaning": "good",
+    "pronunciation": "goo-ten",
+    "audio": "word_may2026_366"
+  },
+  {
+    "id": 367,
+    "german": "Ort",
+    "meaning": "place / location",
+    "pronunciation": "ort",
+    "audio": "word_may2026_367"
+  },
+  {
+    "id": 368,
+    "german": "schön",
+    "meaning": "beautiful / nice",
+    "pronunciation": "shairn",
+    "audio": "word_may2026_368"
+  },
+  {
+    "id": 369,
+    "german": "gegenüber",
+    "meaning": "opposite / compared to",
+    "pronunciation": "geh-gen-ew-ber",
+    "audio": "word_may2026_369"
+  },
+  {
+    "id": 370,
+    "german": "solche",
+    "meaning": "such",
+    "pronunciation": "zol-kheh",
+    "audio": "word_may2026_370"
+  },
+  {
+    "id": 371,
+    "german": "kosten",
+    "meaning": "to cost / costs",
+    "pronunciation": "kos-ten",
+    "audio": "word_may2026_371"
+  },
+  {
+    "id": 372,
+    "german": "Form",
+    "meaning": "form / shape",
+    "pronunciation": "form",
+    "audio": "word_may2026_372"
+  },
+  {
+    "id": 373,
+    "german": "weit",
+    "meaning": "far / wide",
+    "pronunciation": "vyt",
+    "audio": "word_may2026_373"
+  },
+  {
+    "id": 374,
+    "german": "weiteren",
+    "meaning": "further / other",
+    "pronunciation": "vy-teh-ren",
+    "audio": "word_may2026_374"
+  },
+  {
+    "id": 375,
+    "german": "Wochen",
+    "meaning": "weeks",
+    "pronunciation": "vokh-en",
+    "audio": "word_may2026_375"
+  },
+  {
+    "id": 376,
+    "german": "zweiten",
+    "meaning": "second",
+    "pronunciation": "tsvyt-en",
+    "audio": "word_may2026_376"
+  },
+  {
+    "id": 377,
+    "german": "musste",
+    "meaning": "had to / must",
+    "pronunciation": "moos-teh",
+    "audio": "word_may2026_377"
+  },
+  {
+    "id": 378,
+    "german": "Haus",
+    "meaning": "house",
+    "pronunciation": "hows",
+    "audio": "word_may2026_378"
+  },
+  {
+    "id": 379,
+    "german": "dank",
+    "meaning": "thanks / thanks to",
+    "pronunciation": "dank",
+    "audio": "word_may2026_379"
+  },
+  {
+    "id": 380,
+    "german": "eigene",
+    "meaning": "own",
+    "pronunciation": "yg-eh-neh",
+    "audio": "word_may2026_380"
+  },
+  {
+    "id": 381,
+    "german": "meisten",
+    "meaning": "most",
+    "pronunciation": "my-sten",
+    "audio": "word_may2026_381"
+  },
+  {
+    "id": 382,
+    "german": "bleiben",
+    "meaning": "to remain / stay",
+    "pronunciation": "bly-ben",
+    "audio": "word_may2026_382"
+  },
+  {
+    "id": 383,
+    "german": "insgesamt",
+    "meaning": "overall / in total",
+    "pronunciation": "ins-geh-zahmt",
+    "audio": "word_may2026_383"
+  },
+  {
+    "id": 384,
+    "german": "Grund",
+    "meaning": "reason / ground",
+    "pronunciation": "groont",
+    "audio": "word_may2026_384"
+  },
+  {
+    "id": 385,
+    "german": "Problem",
+    "meaning": "problem",
+    "pronunciation": "pro-blaym",
+    "audio": "word_may2026_385"
+  },
+  {
+    "id": 386,
+    "german": "besteht",
+    "meaning": "consists / exists",
+    "pronunciation": "beh-shtayt",
+    "audio": "word_may2026_386"
+  },
+  {
+    "id": 387,
+    "german": "sagte",
+    "meaning": "said",
+    "pronunciation": "zahk-teh",
+    "audio": "word_may2026_387"
+  },
+  {
+    "id": 388,
+    "german": "jede",
+    "meaning": "every / each",
+    "pronunciation": "yay-deh",
+    "audio": "word_may2026_388"
+  },
+  {
+    "id": 389,
+    "german": "nachdem",
+    "meaning": "after",
+    "pronunciation": "nakh-daym",
+    "audio": "word_may2026_389"
+  },
+  {
+    "id": 390,
+    "german": "ebenso",
+    "meaning": "just as / likewise",
+    "pronunciation": "ay-ben-zo",
+    "audio": "word_may2026_390"
+  },
+  {
+    "id": 391,
+    "german": "beide",
+    "meaning": "both",
+    "pronunciation": "by-deh",
+    "audio": "word_may2026_391"
+  },
+  {
+    "id": 392,
+    "german": "anders",
+    "meaning": "different / otherwise",
+    "pronunciation": "an-dairst",
+    "audio": "word_may2026_392"
+  },
+  {
+    "id": 393,
+    "german": "danach",
+    "meaning": "after that / thereafter",
+    "pronunciation": "dah-nakh",
+    "audio": "word_may2026_393"
+  },
+  {
+    "id": 394,
+    "german": "Familie",
+    "meaning": "family",
+    "pronunciation": "fah-mee-lyeh",
+    "audio": "word_may2026_394"
+  },
+  {
+    "id": 395,
+    "german": "meinem",
+    "meaning": "my",
+    "pronunciation": "my-nem",
+    "audio": "word_may2026_395"
+  },
+  {
+    "id": 396,
+    "german": "alten",
+    "meaning": "old",
+    "pronunciation": "al-ten",
+    "audio": "word_may2026_396"
+  },
+  {
+    "id": 397,
+    "german": "bringen",
+    "meaning": "to bring / take",
+    "pronunciation": "bring-en",
+    "audio": "word_may2026_397"
+  },
+  {
+    "id": 398,
+    "german": "daran",
+    "meaning": "on it / at it",
+    "pronunciation": "dah-ran",
+    "audio": "word_may2026_398"
+  },
+  {
+    "id": 399,
+    "german": "Leute",
+    "meaning": "people",
+    "pronunciation": "loy-teh",
+    "audio": "word_may2026_399"
+  },
+  {
+    "id": 400,
+    "german": "aufgrund",
+    "meaning": "due to / because of",
+    "pronunciation": "owf-groont",
+    "audio": "word_may2026_400"
+  },
+  {
+    "id": 401,
+    "german": "Eltern",
+    "meaning": "parents",
+    "pronunciation": "el-tairn",
+    "audio": "word_may2026_401"
+  },
+  {
+    "id": 402,
+    "german": "gemeinsam",
+    "meaning": "together / common",
+    "pronunciation": "geh-myn-zahm",
+    "audio": "word_may2026_402"
+  },
+  {
+    "id": 403,
+    "german": "sofort",
+    "meaning": "immediately",
+    "pronunciation": "zo-fort",
+    "audio": "word_may2026_403"
+  },
+  {
+    "id": 404,
+    "german": "dessen",
+    "meaning": "whose / of which",
+    "pronunciation": "des-en",
+    "audio": "word_may2026_404"
+  },
+  {
+    "id": 405,
+    "german": "halten",
+    "meaning": "to hold / stop",
+    "pronunciation": "hal-ten",
+    "audio": "word_may2026_405"
+  },
+  {
+    "id": 406,
+    "german": "nutzen",
+    "meaning": "to use / exploit",
+    "pronunciation": "noot-sen",
+    "audio": "word_may2026_406"
+  },
+  {
+    "id": 407,
+    "german": "Hand",
+    "meaning": "hand",
+    "pronunciation": "hant",
+    "audio": "word_may2026_407"
+  },
+  {
+    "id": 408,
+    "german": "lesen",
+    "meaning": "to read",
+    "pronunciation": "lay-zen",
+    "audio": "word_may2026_408"
+  },
+  {
+    "id": 409,
+    "german": "leicht",
+    "meaning": "easy / light",
+    "pronunciation": "lykht",
+    "audio": "word_may2026_409"
+  },
+  {
+    "id": 410,
+    "german": "anfang",
+    "meaning": "beginning / start",
+    "pronunciation": "an-fang",
+    "audio": "word_may2026_410"
+  },
+  {
+    "id": 411,
+    "german": "jedem",
+    "meaning": "each / everyone",
+    "pronunciation": "yay-dem",
+    "audio": "word_may2026_411"
+  },
+  {
+    "id": 412,
+    "german": "bekannt",
+    "meaning": "known / famous",
+    "pronunciation": "beh-kant",
+    "audio": "word_may2026_412"
+  },
+  {
+    "id": 413,
+    "german": "Hilfe",
+    "meaning": "help",
+    "pronunciation": "hil-feh",
+    "audio": "word_may2026_413"
+  },
+  {
+    "id": 414,
+    "german": "Blick",
+    "meaning": "look / view / glance",
+    "pronunciation": "blik",
+    "audio": "word_may2026_414"
+  },
+  {
+    "id": 415,
+    "german": "schließlich",
+    "meaning": "finally",
+    "pronunciation": "shlees-likh",
+    "audio": "word_may2026_415"
+  },
+  {
+    "id": 416,
+    "german": "dadurch",
+    "meaning": "thereby",
+    "pronunciation": "dah-doorkh",
+    "audio": "word_may2026_416"
+  },
+  {
+    "id": 417,
+    "german": "Zukunft",
+    "meaning": "future",
+    "pronunciation": "tsoo-koonft",
+    "audio": "word_may2026_417"
+  },
+  {
+    "id": 418,
+    "german": "Namen",
+    "meaning": "names",
+    "pronunciation": "nah-men",
+    "audio": "word_may2026_418"
+  },
+  {
+    "id": 419,
+    "german": "sowohl",
+    "meaning": "as well as / both",
+    "pronunciation": "zo-vohl",
+    "audio": "word_may2026_419"
+  },
+  {
+    "id": 420,
+    "german": "überhaupt",
+    "meaning": "at all / generally",
+    "pronunciation": "ew-ber-howpt",
+    "audio": "word_may2026_420"
+  },
+  {
+    "id": 421,
+    "german": "unserem",
+    "meaning": "our",
+    "pronunciation": "oon-zeh-rem",
+    "audio": "word_may2026_421"
+  },
+  {
+    "id": 422,
+    "german": "zunächst",
+    "meaning": "first / at first",
+    "pronunciation": "tsoo-naykhst",
+    "audio": "word_may2026_422"
+  },
+  {
+    "id": 423,
+    "german": "Stunden",
+    "meaning": "hours",
+    "pronunciation": "shtoon-den",
+    "audio": "word_may2026_423"
+  },
+  {
+    "id": 424,
+    "german": "hinter",
+    "meaning": "behind / after",
+    "pronunciation": "hin-tair",
+    "audio": "word_may2026_424"
+  },
+  {
+    "id": 425,
+    "german": "hast",
+    "meaning": "have",
+    "pronunciation": "hast",
+    "audio": "word_may2026_425"
+  },
+  {
+    "id": 426,
+    "german": "heißt",
+    "meaning": "means / is called",
+    "pronunciation": "hyst",
+    "audio": "word_may2026_426"
+  },
+  {
+    "id": 427,
+    "german": "Stelle",
+    "meaning": "place / position",
+    "pronunciation": "shtel-eh",
+    "audio": "word_may2026_427"
+  },
+  {
+    "id": 428,
+    "german": "finde",
+    "meaning": "find",
+    "pronunciation": "fin-deh",
+    "audio": "word_may2026_428"
+  },
+  {
+    "id": 429,
+    "german": "Einsatz",
+    "meaning": "deployment / application",
+    "pronunciation": "yn-zats",
+    "audio": "word_may2026_429"
+  },
+  {
+    "id": 430,
+    "german": "Team",
+    "meaning": "team",
+    "pronunciation": "teem",
+    "audio": "word_may2026_430"
+  },
+  {
+    "id": 431,
+    "german": "trotz",
+    "meaning": "despite",
+    "pronunciation": "trots",
+    "audio": "word_may2026_431"
+  },
+  {
+    "id": 432,
+    "german": "Millionen",
+    "meaning": "millions",
+    "pronunciation": "mil-yoh-nen",
+    "audio": "word_may2026_432"
+  },
+  {
+    "id": 433,
+    "german": "insbesondere",
+    "meaning": "especially / in particular",
+    "pronunciation": "in-bes-on-deh-reh",
+    "audio": "word_may2026_433"
+  },
+  {
+    "id": 434,
+    "german": "gewesen",
+    "meaning": "been",
+    "pronunciation": "geh-vay-zen",
+    "audio": "word_may2026_434"
+  },
+  {
+    "id": 435,
+    "german": "Musik",
+    "meaning": "music",
+    "pronunciation": "moo-zeek",
+    "audio": "word_may2026_435"
+  },
+  {
+    "id": 436,
+    "german": "endlich",
+    "meaning": "finally / at last",
+    "pronunciation": "ent-likh",
+    "audio": "word_may2026_436"
+  },
+  {
+    "id": 437,
+    "german": "sonst",
+    "meaning": "otherwise / else",
+    "pronunciation": "zonst",
+    "audio": "word_may2026_437"
+  },
+  {
+    "id": 438,
+    "german": "weise",
+    "meaning": "way / manner",
+    "pronunciation": "vy-zeh",
+    "audio": "word_may2026_438"
+  },
+  {
+    "id": 439,
+    "german": "per",
+    "meaning": "by / via / per",
+    "pronunciation": "pair",
+    "audio": "word_may2026_439"
+  },
+  {
+    "id": 440,
+    "german": "innerhalb",
+    "meaning": "within / inside",
+    "pronunciation": "in-air-halp",
+    "audio": "word_may2026_440"
+  },
+  {
+    "id": 441,
+    "german": "Schule",
+    "meaning": "school",
+    "pronunciation": "shoo-leh",
+    "audio": "word_may2026_441"
+  },
+  {
+    "id": 442,
+    "german": "fünf",
+    "meaning": "five",
+    "pronunciation": "fewnf",
+    "audio": "word_may2026_442"
+  },
+  {
+    "id": 443,
+    "german": "zeigen",
+    "meaning": "to show",
+    "pronunciation": "tsy-gen",
+    "audio": "word_may2026_443"
+  },
+  {
+    "id": 444,
+    "german": "fest",
+    "meaning": "firm / solid",
+    "pronunciation": "fest",
+    "audio": "word_may2026_444"
+  },
+  {
+    "id": 445,
+    "german": "ganzen",
+    "meaning": "whole / entire",
+    "pronunciation": "gants-en",
+    "audio": "word_may2026_445"
+  },
+  {
+    "id": 446,
+    "german": "führen",
+    "meaning": "to lead / conduct",
+    "pronunciation": "few-ren",
+    "audio": "word_may2026_446"
+  },
+  {
+    "id": 447,
+    "german": "führt",
+    "meaning": "leads / guides",
+    "pronunciation": "fewrt",
+    "audio": "word_may2026_447"
+  },
+  {
+    "id": 448,
+    "german": "Artikel",
+    "meaning": "article / item",
+    "pronunciation": "ar-tee-kel",
+    "audio": "word_may2026_448"
+  },
+  {
+    "id": 449,
+    "german": "stark",
+    "meaning": "strong / heavy",
+    "pronunciation": "shtark",
+    "audio": "word_may2026_449"
+  },
+  {
+    "id": 450,
+    "german": "allein",
+    "meaning": "alone / only",
+    "pronunciation": "al-yn",
+    "audio": "word_may2026_450"
+  },
+  {
+    "id": 451,
+    "german": "liegen",
+    "meaning": "to lie / recline",
+    "pronunciation": "lee-gen",
+    "audio": "word_may2026_451"
+  },
+  {
+    "id": 452,
+    "german": "Personen",
+    "meaning": "people / persons",
+    "pronunciation": "pair-zoh-nen",
+    "audio": "word_may2026_452"
+  },
+  {
+    "id": 453,
+    "german": "Mai",
+    "meaning": "May",
+    "pronunciation": "my",
+    "audio": "word_may2026_453"
+  },
+  {
+    "id": 454,
+    "german": "Seiten",
+    "meaning": "pages / sides",
+    "pronunciation": "zy-ten",
+    "audio": "word_may2026_454"
+  },
+  {
+    "id": 455,
+    "german": "oben",
+    "meaning": "above / upstairs",
+    "pronunciation": "oh-ben",
+    "audio": "word_may2026_455"
+  },
+  {
+    "id": 456,
+    "german": "trotzdem",
+    "meaning": "nevertheless / anyway",
+    "pronunciation": "trots-daym",
+    "audio": "word_may2026_456"
+  },
+  {
+    "id": 457,
+    "german": "Bilder",
+    "meaning": "pictures / images",
+    "pronunciation": "bil-dair",
+    "audio": "word_may2026_457"
+  },
+  {
+    "id": 458,
+    "german": "meist",
+    "meaning": "most / mostly",
+    "pronunciation": "myst",
+    "audio": "word_may2026_458"
+  },
+  {
+    "id": 459,
+    "german": "Film",
+    "meaning": "film / movie",
+    "pronunciation": "film",
+    "audio": "word_may2026_459"
+  },
+  {
+    "id": 460,
+    "german": "obwohl",
+    "meaning": "although / though",
+    "pronunciation": "op-vohl",
+    "audio": "word_may2026_460"
+  },
+  {
+    "id": 461,
+    "german": "Daten",
+    "meaning": "data / dates",
+    "pronunciation": "dah-ten",
+    "audio": "word_may2026_461"
+  },
+  {
+    "id": 462,
+    "german": "Erfolg",
+    "meaning": "success",
+    "pronunciation": "air-folk",
+    "audio": "word_may2026_462"
+  },
+  {
+    "id": 463,
+    "german": "würden",
+    "meaning": "would (plural)",
+    "pronunciation": "vewr-den",
+    "audio": "word_may2026_463"
+  },
+  {
+    "id": 464,
+    "german": "jedes",
+    "meaning": "each / every",
+    "pronunciation": "yay-des",
+    "audio": "word_may2026_464"
+  },
+  {
+    "id": 465,
+    "german": "kind",
+    "meaning": "child",
+    "pronunciation": "kint",
+    "audio": "word_may2026_465"
+  },
+  {
+    "id": 466,
+    "german": "verschiedene",
+    "meaning": "various / different",
+    "pronunciation": "fair-shee-deh-neh",
+    "audio": "word_may2026_466"
+  },
+  {
+    "id": 467,
+    "german": "Probleme",
+    "meaning": "problems",
+    "pronunciation": "pro-blay-meh",
+    "audio": "word_may2026_467"
+  },
+  {
+    "id": 468,
+    "german": "neues",
+    "meaning": "new",
+    "pronunciation": "noy-es",
+    "audio": "word_may2026_468"
+  },
+  {
+    "id": 469,
+    "german": "Gott",
+    "meaning": "God",
+    "pronunciation": "got",
+    "audio": "word_may2026_469"
+  },
+  {
+    "id": 470,
+    "german": "hinaus",
+    "meaning": "out / beyond",
+    "pronunciation": "hin-ows",
+    "audio": "word_may2026_470"
+  },
+  {
+    "id": 471,
+    "german": "Abend",
+    "meaning": "evening",
+    "pronunciation": "ah-bent",
+    "audio": "word_may2026_471"
+  },
+  {
+    "id": 472,
+    "german": "mehrere",
+    "meaning": "several / multiple",
+    "pronunciation": "my-reh-reh",
+    "audio": "word_may2026_472"
+  },
+  {
+    "id": 473,
+    "german": "damals",
+    "meaning": "back then",
+    "pronunciation": "dah-mahls",
+    "audio": "word_may2026_473"
+  },
+  {
+    "id": 474,
+    "german": "Preis",
+    "meaning": "price / prize",
+    "pronunciation": "prys",
+    "audio": "word_may2026_474"
+  },
+  {
+    "id": 475,
+    "german": "lernen",
+    "meaning": "to learn / study",
+    "pronunciation": "lair-nen",
+    "audio": "word_may2026_475"
+  },
+  {
+    "id": 476,
+    "german": "beispielsweise",
+    "meaning": "for example",
+    "pronunciation": "byt-shpeels-vy-zeh",
+    "audio": "word_may2026_476"
+  },
+  {
+    "id": 477,
+    "german": "einzelnen",
+    "meaning": "individual / single",
+    "pronunciation": "yn-tsel-nen",
+    "audio": "word_may2026_477"
+  },
+  {
+    "id": 478,
+    "german": "Gruppe",
+    "meaning": "group",
+    "pronunciation": "groop-eh",
+    "audio": "word_may2026_478"
+  },
+  {
+    "id": 479,
+    "german": "weiterhin",
+    "meaning": "still / furthermore",
+    "pronunciation": "vy-tair-hin",
+    "audio": "word_may2026_479"
+  },
+  {
+    "id": 480,
+    "german": "deine",
+    "meaning": "your (informal)",
+    "pronunciation": "dy-neh",
+    "audio": "word_may2026_480"
+  },
+  {
+    "id": 481,
+    "german": "nämlich",
+    "meaning": "namely / indeed",
+    "pronunciation": "naym-likh",
+    "audio": "word_may2026_481"
+  },
+  {
+    "id": 482,
+    "german": "fand",
+    "meaning": "found",
+    "pronunciation": "fant",
+    "audio": "word_may2026_482"
+  },
+  {
+    "id": 483,
+    "german": "zumindest",
+    "meaning": "at least",
+    "pronunciation": "tsoo-min-dest",
+    "audio": "word_may2026_483"
+  },
+  {
+    "id": 484,
+    "german": "Juni",
+    "meaning": "June",
+    "pronunciation": "yoo-nee",
+    "audio": "word_may2026_484"
+  },
+  {
+    "id": 485,
+    "german": "Richtung",
+    "meaning": "direction",
+    "pronunciation": "rikh-toong",
+    "audio": "word_may2026_485"
+  },
+  {
+    "id": 486,
+    "german": "gesagt",
+    "meaning": "said / spoken",
+    "pronunciation": "geh-zahkt",
+    "audio": "word_may2026_486"
+  },
+  {
+    "id": 487,
+    "german": "hallo",
+    "meaning": "hello",
+    "pronunciation": "hal-oh",
+    "audio": "word_may2026_487"
+  },
+  {
+    "id": 488,
+    "german": "Gesellschaft",
+    "meaning": "society / company",
+    "pronunciation": "geh-zel-shaft",
+    "audio": "word_may2026_488"
+  },
+  {
+    "id": 489,
+    "german": "mitarbeiter",
+    "meaning": "employee / staff member",
+    "pronunciation": "mit-ahr-by-tair",
+    "audio": "word_may2026_489"
+  },
+  {
+    "id": 490,
+    "german": "einigen",
+    "meaning": "some / a few",
+    "pronunciation": "yn-ee-gen",
+    "audio": "word_may2026_490"
+  },
+  {
+    "id": 491,
+    "german": "lang",
+    "meaning": "long",
+    "pronunciation": "lang",
+    "audio": "word_may2026_491"
+  },
+  {
+    "id": 492,
+    "german": "schwer",
+    "meaning": "heavy / difficult",
+    "pronunciation": "shvair",
+    "audio": "word_may2026_492"
+  },
+  {
+    "id": 493,
+    "german": "hoch",
+    "meaning": "high / tall",
+    "pronunciation": "hokh",
+    "audio": "word_may2026_493"
+  },
+  {
+    "id": 494,
+    "german": "Programm",
+    "meaning": "program",
+    "pronunciation": "pro-gram",
+    "audio": "word_may2026_494"
+  },
+  {
+    "id": 495,
+    "german": "Augen",
+    "meaning": "eyes",
+    "pronunciation": "ow-gen",
+    "audio": "word_may2026_495"
+  },
+  {
+    "id": 496,
+    "german": "welches",
+    "meaning": "which / what",
+    "pronunciation": "vel-khes",
+    "audio": "word_may2026_496"
+  },
+  {
+    "id": 497,
+    "german": "dennoch",
+    "meaning": "yet / nevertheless",
+    "pronunciation": "den-okh",
+    "audio": "word_may2026_497"
+  },
+  {
+    "id": 498,
+    "german": "geworden",
+    "meaning": "become / became",
+    "pronunciation": "geh-vor-den",
+    "audio": "word_may2026_498"
+  },
+  {
+    "id": 499,
+    "german": "Rolle",
+    "meaning": "role / part / roll",
+    "pronunciation": "rol-eh",
+    "audio": "word_may2026_499"
+  },
+  {
+    "id": 500,
+    "german": "wert",
+    "meaning": "worth / value",
+    "pronunciation": "vairt",
+    "audio": "word_may2026_500"
+  }
+]
